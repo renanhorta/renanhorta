@@ -1,4 +1,4 @@
-# 💫 Sobre -  About Me:
+# 🗨️ Sobre -  About Me:
 
 (:brazil:)<br>
 Atualmente Estou Estagiando no LMMP Puc-Rio<br>Estou Cursando Análise e desenvolvimento de Sistemas na INFNET  (RJ)<br>No momento estou me desenvolvendo na área de back-end<br>Atualmente estou aprendendo Phyton e C#<br><br> (:us:)<br> I’m currently working on LMMP Puc-Rio<br>I'm studying Systems Analysis and Development at INFNET<br>At the moment, I'm focusing on back-end development<br>I'am currently learning Python and C#<br>Fun fact : I'm a retro game and portable console enthusiast 🕹️📺
